@@ -63,12 +63,22 @@ flutter:
     - assets/images/Argentinaa.jpg
     - assets/images/brazil.jpg
     - assets/images/france.jpg
+    - assets/images/francebg.jpg
+    - assets/images/francebg1.jpg
+    - assets/images/francebg2.jpg
+    - assets/images/francebg3.jpg
     - assets/images/germany.jpg
     - assets/images/india.jpg
     - assets/images/iran.jpg
     - assets/images/russia.jpg
     - assets/images/turkey.jpg
     - assets/images/uk.jpg
+    - assets/images/china.jpg
+    - assets/images/italy.jpg
+    - assets/images/maxico.jpg
+    - assets/images/spain.jpg
+    - assets/images/thailand.jpg
+
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

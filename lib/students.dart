@@ -1,13 +1,26 @@
 import 'package:flutter/cupertino.dart';
 
-class Country{
+class Country {
   String name;
-  String continent;
-  String cases;
-  String deaths;
+  String Capital;
+
+  String Ranking;
+
   String image;
-  Country({
-    required this.cases,required this.name,required this.continent,required this.deaths,required this.image});
+  String image1;
+  List subject = [];
+  List places=[];
+  List placedetails=[];
 
+  Country(
+      {required this.image1,
+      required this.name,
+      required this.Capital,
+      required this.image,
+      required this.subject,
+      required this.Ranking,
+        required this.places,
+        required this.placedetails,
 
+      });
 }
